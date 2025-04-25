@@ -19,7 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## 💡 풀이 방식
 
-- **C# 언어**로 풀이 (향후 C++, Java, Python도 확장 예정)
+- **C# 언어**로 풀이
 - 한 문제당 하나의 `.cs` 파일
 - 각 파일 상단에 문제 번호, 제목, 링크 명시
 
